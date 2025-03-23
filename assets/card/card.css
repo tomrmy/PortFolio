@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: #0D74CE;
+    background-color: #FBFDFF;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+
+h1{
+    text-align: center;
+}
+
+.card{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 500px;
+    border-radius: 10px;
+    margin: auto;
+    background-color: #C2E5FF;
+}
+
+.card img {
+    min-width: 30px;
+    max-width: 30px;
+    margin: 30px;
+}
+
+td{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.profil  {
+    margin: auto;
+    border-radius: 50%;
+    width:160px;
+    height:160px;
+    border:2px solid #104D87; 
+    
+}
+
+.reseaux img{
+    min-width: 30px;
+    max-width: 30px;
+    margin: 30px;
+
+}
+
+.btn{
+    background-color: rgb(40, 140, 255);
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    border:1px solid black; 
+}
