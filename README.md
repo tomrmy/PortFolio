@@ -15,4 +15,3 @@ Dans ce portfolio, vous trouverez des exemples de mes travaux, y compris des pro
 ## Contact
 
 - **Email** : [tomroumy@gmail.com](mailto:tomroumy@gmail.com)
-- **LinkedIn** : [Tom Roumy]([https://www.linkedin.com/in/ton-profil](https://www.linkedin.com/in/tom-roumy-8aa884348/))
